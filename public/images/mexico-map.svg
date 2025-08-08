@@ -1,0 +1,22 @@
+<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Mexico outline -->
+  <path d="M50 300 L100 250 L150 200 L200 180 L250 170 L300 160 L350 150 L400 140 L450 130 L500 120 L550 110 L600 105 L650 100 L700 110 L750 130 L780 160 L790 200 L785 240 L770 280 L750 320 L720 360 L680 400 L640 440 L600 480 L550 520 L500 550 L450 570 L400 580 L350 585 L300 580 L250 570 L200 550 L150 520 L100 480 L70 440 L50 400 L45 360 L50 320 Z" 
+        fill="#e5e7eb" 
+        stroke="#9ca3af" 
+        stroke-width="2"/>
+  
+  <!-- Baja Peninsula -->
+  <path d="M50 300 L80 280 L90 250 L95 220 L100 190 L105 160 L110 130 L120 100 L130 80 L140 70 L150 75 L155 90 L160 110 L165 130 L170 150 L175 170 L180 190 L185 210 L190 230 L195 250 L200 270 L205 290 L210 310 L215 330 L220 350 L225 370 L230 390 L235 410 L240 430 L245 450 L240 460 L230 465 L220 460 L210 455 L200 450 L190 440 L180 430 L170 420 L160 410 L150 400 L140 390 L130 380 L120 370 L110 360 L100 350 L90 340 L80 330 L70 320 L60 310 L55 300 Z" 
+        fill="#ddd6fe" 
+        stroke="#8b5cf6" 
+        stroke-width="1"/>
+  
+  <!-- Text labels -->
+  <text x="400" y="300" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#374151">MEXICO</text>
+  
+  <!-- Region labels -->
+  <text x="120" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#8b5cf6">Baja</text>
+  <text x="300" y="350" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#f59e0b">Western</text>
+  <text x="500" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#10b981">Southern</text>
+  <text x="650" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#3b82f6">Eastern</text>
+</svg>
